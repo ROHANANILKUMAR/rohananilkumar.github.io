@@ -233,6 +233,7 @@ var MyProjects = (function(){
     })
 
     var projectList=[
+        jsonParser,
         libraryManager,
         mediaStream,
         snakeGame,
